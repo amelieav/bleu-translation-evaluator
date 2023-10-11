@@ -37,5 +37,5 @@ generated_texts = [
 ]
 
 ### Output
-`Generated BLEU Scores: [0.9312457603037672]
+`Generated BLEU Scores: [0.9312457603037672]/
 Overall Evaluation: Excellent`
