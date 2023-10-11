@@ -20,17 +20,17 @@ Customize the evaluation threshold to suit your specific use case.
 
 ## Example usage
 
-### French text:
+#### French text:
 
 La bergeronnette blanche (Motacilla alba) est un petit oiseau que l’on trouve en Europe, en Asie, en Afrique du Nord et parfois en Alaska. En Irlande et en Grande-Bretagne, une sous-espèce plus foncée appelée la bergeronnette pied (M. a. yarrellii) est commune. Il existe plusieurs sous-espèces au total.
 
-### A human translation
+#### A human translation
 
 references = [
 "The white wagtail (Motacilla alba) is a small bird found in Europe, Asia, North Africa, and occasionally Alaska. In Ireland and Great Britain, a darker subspecies called the pied wagtail (M. a. yarrellii) is common. There are several subspecies in total.",
 ]
 
-### Translation by a chatbot
+#### Translation by a chatbot
 
 generated_texts = [
 "The white wagtail (Motacilla alba) is a small bird found in Europe, Asia, North Africa, and sometimes in Alaska. In Ireland and Great Britain, a darker subspecies called the pied wagtail (M. a. yarrellii) is common. There are several subspecies in total.",
